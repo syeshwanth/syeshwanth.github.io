@@ -1,6 +1,3 @@
 ---
-layout: default
+layout: home
 ---
-## Text!
-
-Here is some sample text
